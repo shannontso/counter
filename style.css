@@ -1,0 +1,23 @@
+body {
+  background-color: #03020a;
+
+
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#counter {
+  font-family: 'Tenor Sans', sans-serif;
+  color: #ab57ea;
+  font-size: 125px;
+  font-weight: 200;
+}
